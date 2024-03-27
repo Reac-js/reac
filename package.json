@@ -1,0 +1,23 @@
+{
+  "name": "reacjs",
+  "version": "1.0.3",
+  "type": "module",
+  "description": "Réac est une bibliothèque JavaScript pour construire des interfaces utilisateurs web bien de chez nous",
+  "keywords": [
+    "reac"
+  ],
+  "homepage": "https://reac.dev/",
+  "main": "index.js",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "import": "./index.js"
+    }
+  },
+  "author": "Équipe Reac JS",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^18.2.0",
+    "react": "^18.2.0"
+  }
+}
