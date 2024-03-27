@@ -34,4 +34,4 @@ Voir https://reac.dev/
 
 ## API
 
-See https://reac.dev/reference
+Voir https://reac.dev/reference
